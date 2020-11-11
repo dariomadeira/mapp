@@ -1,0 +1,29 @@
+{ 
+  "general.loading": "Cargando...",
+  "general.singin": "Verificando cuenta...",
+  "welcome.slider1.title": "¡Es la hora de comer!",
+  "welcome.slider2.title": "Seleciona tu pedido",
+  "welcome.slider3.title": "¿Necesitas que te lo lleven?",
+  "welcome.slider1.description": "Encuentra el código de barras de MozoApp y utiliza la app para acceder a la carta del local que elegiste.",
+  "welcome.slider2.description": "Pide del menú lo que quieras, ordénalo y listo, solo debes esperar a que te lo entreguen.",
+  "welcome.slider3.description": "Coordina la entrega en tu casa con el local, una manera rápida y segura de que te llegue tu pedido.",
+  "welcome.slider.btnNext": "Entendido",
+  "main.menu": "Menú",
+  "main.order": "Orden",
+  "main.tickets": "Tickets",
+  "main.historial": "Historial",
+  "login.title": "¡Bienvenido!",
+  "login.subtitle": "Ingrese su dirección de email para iniciar sesión, ¡Disfrute su comida!",
+  "login.email.hint": "ejemplo@correo.com",
+  "login.password.hint": "Contraseña",
+  "login.password.lose": "¿Se te olvidó tu contraseña?",
+  "login.login": "Iniciar sesión",
+  "login.notaccount": "¿No tienes una cuenta?",
+  "login.account.create": "Crear una",
+  "login.loginwith": "O puedes usar...",
+  "login.loginwith.facebook": "Facebook",
+  "login.loginwith.google": "Google",
+  "login.error": "Error al iniciar sesión"
+
+
+}

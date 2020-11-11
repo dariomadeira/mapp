@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "869453806476",
+    "firebase_url": "https://mozoapp-ae3f2.firebaseio.com",
+    "project_id": "mozoapp-ae3f2",
+    "storage_bucket": "mozoapp-ae3f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869453806476:android:cee0f0a2b0c9577be5f4a9",
+        "android_client_info": {
+          "package_name": "com.solunika.mozoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869453806476-4r9bj4m99errmpcsk2c1hvlghjenpquh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solunika.mozoapp",
+            "certificate_hash": "f8176a498df6c33d48fc6474d27d96fed5a6009f"
+          }
+        },
+        {
+          "client_id": "869453806476-rk0cs5i1h6j6gnfongeki6pojtqle0jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgoSrohbjGR2uemtqLNfzo2ee84rcTINc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869453806476-rk0cs5i1h6j6gnfongeki6pojtqle0jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
